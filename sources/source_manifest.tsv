@@ -1,0 +1,6 @@
+source_id	resource	url	format	role	license_or_terms	notes
+NCBI_VIRUS	NCBI Virus landing page	https://www.ncbi.nlm.nih.gov/genomes/VIRUSES/viruses.html	web	genome protein host metadata	NCBI terms	Host is submitter-provided sample metadata
+NCBI_DATASETS	NCBI Datasets virus genome CLI	https://www.ncbi.nlm.nih.gov/datasets/docs/v2/reference-docs/command-line/datasets/download/virus/genome/	CLI	filtered genome CDS protein downloads	NCBI terms	Use complete-only and host/taxon filters
+ICTV_MSL_2025	ICTV Master Species List 2025 MSL41 v1	https://ictv.global/sites/default/files/MSL/ICTV_Master_Species_List_2025_MSL41.v1.xlsx	XLSX	official taxonomy normalization	CC BY 4.0	Current taxonomy release used for mapping
+VIRUSHOSTDB_TSV	Virus-Host DB relationship table	https://www.genome.jp/ftp/db/virushostdb/virushostdb.tsv	TSV	virus-host pair labels	CC BY-NC-SA 4.0	Record release date and citation
+VIRUSHOSTDB_README	Virus-Host DB README	https://www.genome.jp/ftp/db/virushostdb/README	TXT	field definitions and citation	CC BY-NC-SA 4.0	Store with relationship table
